@@ -1,0 +1,4 @@
+interface:
+  display_name: "小欧的 iPhone 批量水印"
+  short_description: "提供 18 Pro 与 Pro Max 水印快捷指令，指导相册多选和批量保存"
+  default_prompt: "使用 $xiaoou-iphone-watermark，给我 18 Pro Max 批量水印快捷指令和安装方法。"
