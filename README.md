@@ -8,9 +8,9 @@
 
 | 版本 | 排版与用途 | 机型设置 |
 | --- | --- | --- |
-| [鹿phone · 居中机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/鹿phone-居中机型版.shortcut) | 苹果标志在上、机型名称在下，照片中央 | 每批手选 18 Pro / 18 Pro Max |
-| [鹿phone · 四位置机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/鹿phone-四位置机型版.shortcut) | 中间、下方居中、左下角、右下角四选一 | 每批手选 18 Pro / 18 Pro Max |
-| [鹿phone · 白色相框参数版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/鹿phone-白色相框参数版.shortcut) | 细白边和底部留白，显示机型、焦距、光圈、曝光秒数、ISO；保留原照片色彩 | 优先读取照片拍摄机型，缺失时使用输入的备用机型；缺失参数省略 |
+| [鹿phone · 居中机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Centered.shortcut) | 苹果标志在上、机型名称在下，照片中央 | 每批手选 18 Pro / 18 Pro Max |
+| [鹿phone · 四位置机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Four-Positions.shortcut) | 中间、下方居中、左下角、右下角四选一 | 每批手选 18 Pro / 18 Pro Max |
+| [鹿phone · 白色相框参数版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Photo-Frame.shortcut) | 细白边和底部留白，显示机型、焦距、光圈、曝光秒数、ISO；保留原照片色彩 | 优先读取照片拍摄机型，缺失时使用输入的备用机型；缺失参数省略 |
 | [经典 18 Pro 版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/iPhone18Pro-Batch.shortcut) | 下方居中苹果标志＋Shot on iPhone | 固定 18 Pro |
 | [经典 18 Pro Max 版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/iPhone18ProMax-Batch.shortcut) | 下方居中苹果标志＋Shot on iPhone | 固定 18 Pro Max |
 
