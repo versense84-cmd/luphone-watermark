@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | [鹿phone · 居中机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Centered.shortcut) | 苹果标志在上、机型名称在下，照片中央 | 每批手选 18 Pro / 18 Pro Max |
 | [鹿phone · 四位置机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Four-Positions.shortcut) | 中间、下方居中、左下角、右下角四选一 | 每批手选 18 Pro / 18 Pro Max |
-| [鹿phone · 白色相框参数版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Photo-Frame.shortcut) | 细白边和底部留白，显示机型、焦距、光圈、曝光秒数、ISO；保留原照片色彩 | 优先读取照片拍摄机型，缺失时使用输入的备用机型；缺失参数省略 |
+| [鹿phone · 白色相框参数版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Photo-Frame.shortcut) | 细白边和底部留白，显示机型、焦距、光圈、快门、ISO；保留原照片色彩 | 每批手选 18 Pro / 18 Pro Max；拍摄参数来自照片，缺失省略 |
 | [经典 18 Pro 版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/iPhone18Pro-Batch.shortcut) | 下方居中苹果标志＋Shot on iPhone | 固定 18 Pro |
 | [经典 18 Pro Max 版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/iPhone18ProMax-Batch.shortcut) | 下方居中苹果标志＋Shot on iPhone | 固定 18 Pro Max |
 
@@ -26,7 +26,7 @@
 
 也可以直接运行快捷指令，再从照片选择器多选。分享菜单没有显示时，在“编辑操作”中寻找并加入，或检查快捷指令详细信息中的“在共享表单中显示”。
 
-经典版及机型版的文字为自定义装饰；白色相框版优先读取照片元数据。请选择原照片，重复处理会叠加水印。
+经典版及机型版的文字为自定义装饰；白色相框版机型由用户选择，摄影参数来自照片元数据。机型名称加粗，其他文字常规；优先显示等效焦距，焦距和 ISO 为整数，光圈保留一位必要小数，短曝光显示 1/整数秒。请选择原照片，重复处理会叠加水印。
 
 ## Skill 使用方法
 
