@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | [鹿phone · 居中机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Centered.shortcut) | 苹果标志在上、机型名称在下，照片中央 | 每批手选 18 Pro / 18 Pro Max |
 | [鹿phone · 四位置机型版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Four-Positions.shortcut) | 中间、下方居中、左下角、右下角四选一 | 每批手选 18 Pro / 18 Pro Max |
-| [鹿phone · 白色相框参数版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Photo-Frame.shortcut) | 细白边和底部留白，显示机型、焦距、光圈、快门、ISO；保留原照片色彩 | 每批手选 18 Pro / 18 Pro Max；拍摄参数来自照片，缺失省略 |
+| [鹿phone · 白色相框参数版 v3](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/LuPhone-Photo-Frame.shortcut) | 细白边和底部留白，显示机型、焦距、光圈、快门、ISO；保留原照片色彩 | 每批手选 18 Pro / 18 Pro Max；拍摄参数来自照片，缺失省略 |
 | [经典 18 Pro 版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/iPhone18Pro-Batch.shortcut) | 下方居中苹果标志＋Shot on iPhone | 固定 18 Pro |
 | [经典 18 Pro Max 版](https://github.com/versense84-cmd/luphone-watermark/releases/latest/download/iPhone18ProMax-Batch.shortcut) | 下方居中苹果标志＋Shot on iPhone | 固定 18 Pro Max |
 
@@ -39,3 +39,5 @@ Skill 内含两个快捷指令文件。iPhone 快捷指令 App 不能直接导�
 内附快捷指令已在 macOS 签名。最近新增的三个版本尚未完成 iPhone 全流程验证；相框版已验证 Mac 导入。尚未覆盖所有 iOS 版本和设备；遇到问题可在本仓库 Issues 中提供系统版本、操作步骤和报错原文。
 
 本项目为个人制作的摄影工具，与 Apple 无官方关联。
+
+相框版 v3 修复快门条件缺少比较参数的问题，先转换为数字再判断小于 1。若手机已安装旧版，请删除旧快捷指令后重新添加本版。
